@@ -51,19 +51,19 @@
 2. 张永越：http://zhangbugaoa.github.io
 3. 李皓：http://dianshanglihao.github.io
 4. 毕影：
-5. 张晓岩：http://xiaoyanzhangc.github.io
+5. 张晓岩:http://xiaoyanzhangc.github.io
 6. 武佳琪:http://jiuzuihuahai.github.io
 
 ## 第六组
 
 ### 门户地址：
 
-1.韦芊芊：htpp://weiqianqian.github.io 
-2.王晓滑：http://jiliangliangliang.github.io
+1. 韦芊芊：htpp://weiqianqian.github.io 
+2. 王晓滑：http://jiliangliangliang.github.io
 3. 郭津铭：https://guojinming.github.io
 4. 王倩慧：http://qianhuiwang.github.io
 5. 张欣云：http://bujiangjiuzxy.github.io
-6. 
+6. 廖月圆
 
 ## 第七组
 
