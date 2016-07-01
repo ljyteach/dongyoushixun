@@ -47,42 +47,42 @@
 
 ### 门户地址：
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. 赵明轩：http://biyinga.github.io
+2. 张永越：http://zhangbugaoa.github.io
+3. 李皓：http://dianshanglihao.github.io
+4. 毕影：
+5. 张晓岩：http://xiaoyanzhangc.github.io
+6. 武佳琪:http://jiuzuihuahai.github.io
 
 ## 第六组
 
 ### 门户地址：
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1.韦芊芊：htpp://weiqianqian.github.io 
+2.王晓滑：http://jiliangliangliang.github.io
+3. 郭津铭：https://guojinming.github.io
+4. 王倩慧：http://qianhuiwang.github.io
+5. 张欣云：http://bujiangjiuzxy.github.io
 6. 
 
 ## 第七组
 
 ### 门户地址：
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. 常欣：https://changxinxin.github.io
+2. 马金鑫：http://ma-jxinin.github.io
+3. 张瑞琪：http://ruiqizhang.github.io
+4. 梁宇婷；https://liangyuting.github.io
+5. 时玉超：httpS://shiyuchao.github.io
+6. 李晓伟：https://mashangdengyun123.github.io
 
 ## 第八组
 
 ### 门户地址：
 
-1. 
-2. 
-3. 
-4. 
+1. 邢梦媛：https://mengyuanxing.github.io
+2. 许琳：http://xiaochoujun.github.io
+3. 孙楠：http://chenmodehuayu.github.io
+4. 黄幸：http://HuangXing-X.github.io
 5. 
 6. 
