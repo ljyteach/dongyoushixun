@@ -21,7 +21,7 @@
         <tr>
             <td>万源</td>
             <td>https://wanhailin.github.io/</td>
-            <td>良</td>
+            <td>优</td>
             <td>个人网站</td>
         </tr>
         <tr>
@@ -180,7 +180,7 @@
         <tr>
             <td>刘强</td>
             <td>https://dianshangxiaoqiang.github.io</td>
-            <td>良</td>
+            <td>优</td>
             <td>个人网站</td>
         </tr>
         <tr>
@@ -322,7 +322,7 @@
         <tr>
             <td>马金鑫</td>
             <td>http://ma-jxinin.github.io</td>
-            <td>良</td>
+            <td>优</td>
             <td>个人网站</td>
         </tr>
         <tr>
