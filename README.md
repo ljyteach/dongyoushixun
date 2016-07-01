@@ -96,7 +96,7 @@
         <tr>
             <td>马添元</td>
             <td>https://matianyuan.github.io</td>
-            <td>良</td>
+            <td>中</td>
             <td>个人网站</td>
         </tr>
     </tbody>
@@ -141,7 +141,7 @@
         <tr>
             <td>徐聪</td>
             <td>http://a857529851.github.io/</td>
-            <td>良</td>
+            <td>中</td>
             <td>个人网站</td>
         </tr>
         <tr>
