@@ -45,7 +45,7 @@
         <tr>
             <td>许泽峰</td>
             <td>https://zefengxu.github.io/</td>
-            <td></td>
+            <td>中</td>
             <td>个人网站</td>
         </tr>
     </tbody>
@@ -192,7 +192,7 @@
         <tr>
             <td>高燕雨</td>
             <td>https://emperoras.github.io</td>
-            <td>良</td>
+            <td>中</td>
             <td>个人网站</td>
         </tr>
     </tbody>
@@ -265,13 +265,13 @@
         <tr>
             <td>王晓滑</td>
             <td>http://jiliangliangliang.github.io</td>
-            <td>良</td>
+            <td>优</td>
             <td>个人网站</td>
         </tr>
         <tr>
             <td>韦芊芊</td>
             <td>http://weiqianqian.github.io </td>
-            <td>优</td>
+            <td>良</td>
             <td>小组门户</td>
         </tr>
         <tr>
@@ -295,7 +295,7 @@
         <tr>
             <td>廖月圆</td>
             <td>http://yukaris1988.github.io</td>
-            <td>良</td>
+            <td>中</td>
             <td>个人网站</td>
         </tr>
     </tbody>
