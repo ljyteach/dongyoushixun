@@ -244,7 +244,7 @@
         <tr>
             <td>武佳琪</td>
             <td>http://jiuzuihuahai.github.io</td>
-            <td>良</td>
+            <td>中</td>
             <td>个人网站</td>
         </tr>
     </tbody>
