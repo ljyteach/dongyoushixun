@@ -266,13 +266,13 @@
             <td>王晓滑</td>
             <td>http://jiliangliangliang.github.io</td>
             <td>优</td>
-            <td>个人网站</td>
+            <td>小组门户</td>
         </tr>
         <tr>
             <td>韦芊芊</td>
             <td>http://weiqianqian.github.io </td>
             <td>良</td>
-            <td>小组门户</td>
+            <td>个人网站</td>
         </tr>
         <tr>
             <td>郭津铭</td>
