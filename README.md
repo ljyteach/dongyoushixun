@@ -73,7 +73,7 @@
 2. 马金鑫：http://ma-jxinin.github.io
 3. 张瑞琪：http://ruiqizhang.github.io
 4. 梁宇婷；https://liangyuting.github.io
-5. 时玉超：httpS://shiyuchao.github.io
+5. 时玉超：https://shiyuchao.github.io
 6. 李晓伟：https://mashangdengyun123.github.io
 
 ## 第八组
