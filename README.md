@@ -2,7 +2,6 @@
 
 ## 第一组
 
-### 门户地址：
 <table>
     <thead>
         <tr>
@@ -19,19 +18,89 @@
             <td>优</td>
             <td>小组门户</td>
         </tr>
+        <tr>
+            <td>万源</td>
+            <td>https://wanhailin.github.io/</td>
+            <td>良</td>
+            <td>个人网站</td>
+        </tr>
+        <tr>
+            <td>韩峥毅</td>
+            <td>https://hanzhengyi.github.io/</td>
+            <td>良</td>
+            <td>个人网站</td>
+        </tr>
+        <tr>
+            <td>耿红岩</td>
+            <td>https://genghongyan.github.io/</td>
+            <td>良</td>
+            <td>个人网站</td>
+        </tr>
+        <tr>
+            <td>陈蛟龙</td>
+            <td></td>
+            <td></td>
+            <td>个人网站</td>
+        </tr>
+        <tr>
+            <td>许泽峰</td>
+            <td>https://zefengxu.github.io/</td>
+            <td></td>
+            <td>个人网站</td>
+        </tr>
     </tbody>
 </table>
 
-1. 杨正伟：https://eightdandan.github.io/
-2. 万源：https://wanhailin.github.io/
-3. 韩峥毅：https://hanzhengyi.github.io/
-4. 耿红岩：https://genghongyan.github.io/
-5. 陈蛟龙：
-6. 许泽峰：https://zefengxu.github.io/
-
 ## 第二组
 
-### 门户地址：
+<table>
+    <thead>
+        <tr>
+            <th>姓名</th>
+            <th>链接</th>
+            <th>成绩</th>
+            <th>类别</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>潘娜</td>
+            <td>https://napan.github.io/homework2/index.html</td>
+            <td>优</td>
+            <td>小组门户</td>
+        </tr>
+        <tr>
+            <td>黄美琪</td>
+            <td>https://linglun.github.io/</td>
+            <td>良</td>
+            <td>个人网站</td>
+        </tr>
+        <tr>
+            <td>王静</td>
+            <td>https://1744075693.github.io/</td>
+            <td>良</td>
+            <td>个人网站</td>
+        </tr>
+        <tr>
+            <td>徐梦琪</td>
+            <td>https://xumengqia.github.io/</td>
+            <td>良</td>
+            <td>个人网站</td>
+        </tr>
+        <tr>
+            <td>苏陈</td>
+            <td>https://aisuchen.github.io/</td>
+            <td>良</td>
+            <td>个人网站</td>
+        </tr>
+        <tr>
+            <td>马添元</td>
+            <td>https://matianyuan.github.io</td>
+            <td>良</td>
+            <td>个人网站</td>
+        </tr>
+    </tbody>
+</table>
 
 1. 潘娜：https://napan.github.io/homework2/index.html
 2. 黄美琪：https://linglun.github.io/
@@ -42,8 +111,6 @@
 
 ## 第三组
 
-### 门户地址：
-
 1. 陈雪东：http://chenxuedong.github.io/
 2. 于晴：http://yuqingyu.github.io/
 3. 李萍：http://lipingzxcvb.github.io/
@@ -53,7 +120,6 @@
 
 ## 第四组
 
-### 门户地址：
 
 1. 何枫:https://hefenghefeng.github.io
 2. 乔树崎:https://shuqiqiao.github.io
@@ -63,7 +129,6 @@
 
 ## 第五组
 
-### 门户地址：
 
 1. 赵明轩：http://biyinga.github.io
 2. 张永越：http://zhangbugaoa.github.io
@@ -74,8 +139,6 @@
 
 ## 第六组
 
-### 门户地址：
-
 1. 韦芊芊：http://weiqianqian.github.io 
 2. 王晓滑：http://jiliangliangliang.github.io
 3. 郭津铭：https://guojinming.github.io
@@ -84,8 +147,6 @@
 6. 廖月圆: http://yukaris1988.github.io
 
 ## 第七组
-
-### 门户地址：
 
 1. 常欣：https://changxinxin.github.io
 2. 马金鑫：http://ma-jxinin.github.io
@@ -96,11 +157,9 @@
 
 ## 第八组
 
-### 门户地址：
-
 1. 邢梦媛：https://mengyuanxing.github.io
 2. 许琳：http://xiaochoujun.github.io
 3. 孙楠：http://chenmodehuayu.github.io
 4. 黄幸：http://HuangXing-X.github.io
-5. 冯继海:
+5. 冯继海: http://fengjihai123.github.io
 6. 胡志强:http://hzqiang.github.io/address.html
