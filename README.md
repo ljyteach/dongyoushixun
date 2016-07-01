@@ -84,5 +84,5 @@
 2. 许琳：http://xiaochoujun.github.io
 3. 孙楠：http://chenmodehuayu.github.io
 4. 黄幸：http://HuangXing-X.github.io
-5. 
-6. 
+5. 冯继海
+6. 胡志强
