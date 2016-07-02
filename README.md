@@ -72,7 +72,7 @@
         <tr>
             <td>黄美琪</td>
             <td>https://linglun.github.io/</td>
-            <td>良</td>
+            <td>优</td>
             <td>个人网站</td>
         </tr>
         <tr>
@@ -123,7 +123,7 @@
         <tr>
             <td>于晴</td>
             <td>http://yuqingyu.github.io/</td>
-            <td>良</td>
+            <td>优</td>
             <td>个人网站</td>
         </tr>
         <tr>
@@ -141,7 +141,7 @@
         <tr>
             <td>徐聪</td>
             <td>http://a857529851.github.io/</td>
-            <td>中</td>
+            <td>良</td>
             <td>个人网站</td>
         </tr>
         <tr>
@@ -192,7 +192,7 @@
         <tr>
             <td>高燕雨</td>
             <td>https://emperoras.github.io</td>
-            <td>中</td>
+            <td>良</td>
             <td>个人网站</td>
         </tr>
     </tbody>
@@ -231,8 +231,8 @@
         </tr>
         <tr>
             <td>毕影</td>
-            <td></td>
-            <td></td>
+            <td>http://zhaomingxuans.github.io</td>
+            <td>良</td>
             <td>个人网站</td>
         </tr>
         <tr>
