@@ -271,7 +271,7 @@
         <tr>
             <td>韦芊芊</td>
             <td>http://weiqianqian.github.io </td>
-            <td>良</td>
+            <td>优</td>
             <td>个人网站</td>
         </tr>
         <tr>
